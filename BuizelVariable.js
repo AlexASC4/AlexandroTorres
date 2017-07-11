@@ -1,0 +1,9 @@
+var BuizelHP = 55;//number
+var BuizelNUM = 149;//number
+var BuizelType = "Water";//string
+var BuizelBestMove = "AquaJet";//string
+var BuizelLastEvo = false;//boolean
+var BuizelATK = 65
+var BuizelDEF = 35
+var BuizelSPD = 85
+var BuizelHP = BuizelHP - 10
