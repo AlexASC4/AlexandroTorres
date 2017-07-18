@@ -13,5 +13,5 @@
 //return Math.floor(Math.random()*num);
 //console.log(rand(555)); //any number can replace 60
 var students = ["Rocket", "Jose", "Nic", "Devin", "Cyril"];
-students [rand(5)];
-console.log(students[rand(5)]);
+students [rand(4)];
+console.log(students[rand(4)]);
